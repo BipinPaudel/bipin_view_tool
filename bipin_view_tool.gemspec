@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["paudelbipin.bp@gmail.com"]
 
   spec.summary       = %q{short summary}
-  spec.homepage      = "www.facebook.com"
+  spec.homepage      = "https://www.bipin.com"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
 
